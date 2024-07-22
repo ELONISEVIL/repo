@@ -1,0 +1,8 @@
+copilot:
+  providers:
+    - type: gemini
+      url: https://gemini.google.com/
+    - type: microsoft
+      url: https://copilot.microsoft.com/
+    - type: openai
+      url: https://chatgpt.openai.com/
