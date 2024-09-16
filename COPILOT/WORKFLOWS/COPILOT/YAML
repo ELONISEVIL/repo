@@ -1,3 +1,4 @@
+#sudo su 
 copilot:
   providers:
     - type: gemini
